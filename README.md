@@ -1,7 +1,7 @@
 # Links
-Experimenting with Text
-1. list
-2. list2
+
+Experimenting with Text here and my name is Clayton Megna.
+
 
 * Test bullet List
 * '%' percent symbol
@@ -9,7 +9,6 @@ Experimenting with Text
 * '(' Left bracket symbol
 * ')' Right bracket symbol
 
-# Test Title
 # Number row Characters
 !@#$%^&*()_+
 * !
@@ -25,8 +24,10 @@ Experimenting with Text
 * _
 * \+
 
-  * [GitHub](https://github.com)
-  * [George Brown College](https://www.georgebrown.ca)
-  * [Atklass](https://atklass.com)
+  * 💾 [GitHub](https://github.com)
+  * 👨‍🎓[George Brown College](https://www.georgebrown.ca)
+  * ✔[Atklass](https://atklass.com)
 
-  #
+  #Experiments
+
+✔👨‍🎓💾😊😂🤣❤😍🤦‍♀️🙌👍😁💕😘👌😒🤦‍♂️🤷‍♀️🐱‍👤🐱‍🏍🐱‍💻🐱‍🐉🐱‍👓🐱‍🚀👀🎂🎉🌹💋👏✨👓🕶🦺🥽🥼🧥👔👕
