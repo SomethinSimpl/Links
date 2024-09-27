@@ -31,3 +31,14 @@ Experimenting with Text here and my name is Clayton Megna.
   #Experiments
 
 ✔👨‍🎓💾😊😂🤣❤😍🤦‍♀️🙌👍😁💕😘👌😒🤦‍♂️🤷‍♀️🐱‍👤🐱‍🏍🐱‍💻🐱‍🐉🐱‍👓🐱‍🚀👀🎂🎉🌹💋👏✨👓🕶🦺🥽🥼🧥👔👕
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-Shift-ESC (Task Manager)
+- Ctrl-R (Reload)
+- CMD-R (RUN)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Super-Hyper-Meta-F (I dont know what these are but sounds awesome)
