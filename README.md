@@ -2,6 +2,7 @@
 
 Experimenting with Text here and my name is Clayton Megna.
 
+[CLI commands Notes](docs/cli.md)
 
 * Test bullet List
 * '%' percent symbol
