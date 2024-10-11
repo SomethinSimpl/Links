@@ -1,2 +1,1 @@
-*ls is the command to list all files in the current directory ls -a will also show all hidden files
-*cat is the command to read a specific files\n
+"ls" command will list all files and directories in the current directory and "cat" command is used to read/display the contents of files
