@@ -33,8 +33,9 @@
     "Name": "Tom Brady",
     "Age": 46,
     "Sport": "Football",
-    "Team":{"Name": "Buccaneers",	
-            "City": "Tampa Bay",
-            "Position": "Quarterback" }   	 
+    "Team": {
+             "Name": "Buccaneers",	
+             "City": "Tampa Bay",
+             "Position": "Quarterback" }   	 
   }
 ]
