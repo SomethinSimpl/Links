@@ -16,17 +16,17 @@
     "Team":{
             "Name": "Inter Miami",
             "City": "Miami",
-            "Position": "Forward"}
+            "Position": "Forward" }
     	
   },
   {
-    "Name": "Serena Williams",      //String
-    "Age": 41,                      //Number
-    "Sport": "Tennis",              //String
-    "Team": {                       //Object
-              "Name": null,         // Null
-             	"City": null,         // Null
-    					"Position": "Player"} //String
+    "Name": "Serena Williams",       // String
+    "Age": 41,                       // Number
+    "Sport": "Tennis",               // String
+    "Team": {                        // Object
+              "Name": null,          // Null
+             	"City": null,          // Null
+    					     "Position": "Player" } // String
     	
   },
   {
@@ -35,6 +35,6 @@
     "Sport": "Football",
     "Team":{"Name": "Buccaneers",	
             "City": "Tampa Bay",
-            "Position": "Quarterback"}   	 
+            "Position": "Quarterback" }   	 
   }
 ]
