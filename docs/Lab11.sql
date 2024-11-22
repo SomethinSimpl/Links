@@ -1,44 +1,34 @@
 Clayton Megna, Student ID: 101571315
 
 1.
-SELECT course_name || ' - ' || semester AS concatenated_course
-FROM courses;
+ SELECT title, due_date
+  FROM assignments
+  WHERE course_id = 'COMP1234';
 
 2.
-SELECT course_id, course_name, lab_time
-FROM courses
-WHERE lab_time = 'Friday';
+  SELECT MIN(due_date) AS earliest_due_date
+  FROM assignments;
 
 3.
-SELECT *
-FROM assignments
-WHERE due_date > DATE('now');
+  SELECT MAX(due_date) AS latest_due_date
+  FROM assignments;
 
 4.
-  SELECT status, COUNT(*) AS assignment_count
+  SELECT title, course_id
   FROM assignments
-  GROUP BY status;
+  WHERE due_date = '2024-10-08';
 
 5.
-  SELECT course_name
-  FROM courses
-  ORDER BY LENGTH(course_name) DESC
-  LIMIT 1;
+  SELECT title, due_date
+  FROM assignments
+  WHERE due_date LIKE '2024-10-%';
 
 6.
-  SELECT UPPER(course_name) AS uppercase_course_name
-  FROM courses;
-
-7.
-  SELECT title
+  SELECT MAX(due_date) AS most_recent_completed_due_date
   FROM assignments
-  WHERE due_date LIKE '%-09-%';
+  WHERE status = 'Completed';
 
-8.
-  SELECT *
-  FROM assignments
-  WHERE due_date IS NULL;
-
+  
 --My Favorite Query
 
 SELECT *
